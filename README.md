@@ -1,1 +1,1 @@
-"# Uni-C-Tasks" 
+Tasks from university in C programming language.
